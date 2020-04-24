@@ -1,3 +1,4 @@
+#This code deals with "	How long (in days) did it take to the number of confirmed death cases to double?".
 import pandas as pd
 import matplotlib.pyplot as plt
 
